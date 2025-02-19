@@ -2,7 +2,7 @@ import streamlit as st
 from pygame import mixer
 
 
-st.title('#################')
+st.title('////////////////////')
 
 am_button = st.button('Am9')
 bdim_button = st.button('Bdim7')
